@@ -1,0 +1,24 @@
+{
+  "name": "mtm6330-week-3",
+  "version": "1.0.0",
+  "description": "gulp&amp;scss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chou0120/mtm6330-week-3.git"
+  },
+  "author": "Samuel Choudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chou0120/mtm6330-week-3/issues"
+  },
+  "homepage": "https://github.com/chou0120/mtm6330-week-3#readme",
+  "devDependencies": {
+    "webpack": "^4.29.0",
+    "webpack-dev-server": "^3.1.14"
+  },
+  "dependencies": {}
+}
