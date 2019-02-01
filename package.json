@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/chou0120/mtm6330-week-3#readme",
   "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2",
     "webpack": "^4.29.0",
     "webpack-dev-server": "^3.1.14"
   },
